@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('https://https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.eot');
-  src: url('https://https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('https://https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.eot');
+  src: url('https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'), url('https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://dundeechessclub.github.io/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
  .glyphicon {
   position: relative;

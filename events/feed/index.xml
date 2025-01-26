@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Upcoming Events</title>
-	<atom:link href="https://https://dundeechessclub.github.io/events/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://dundeechessclub.github.io/</link>
+	<atom:link href="https://dundeechessclub.github.io/events/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dundeechessclub.github.io/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Jan 2025 01:46:18 +0000</lastBuildDate>
 	<language>en-GB</language>
